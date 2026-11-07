@@ -1,0 +1,34 @@
+mode = "light"
+
+# Disco Elysium Day: overcast Revachol morning on watercolor paper.
+# Soft ink (~9:1) on aged cream, rust accent.
+# Skill hues: Intellect=blue, Psyche=magenta, Physique=red, Motorics=yellow
+accent = "#a9512a"
+selection = "#d3c7ad"
+muted = "#a99d86"
+
+background = "#e8e0cc"
+dark_background = "#ddd4bd"
+darker_background = "#cfc5aa"
+lighter_background = "#f3ecdb"
+
+foreground = "#3a342e"
+dark_foreground = "#6b6155"
+light_foreground = "#574e45"
+bright_foreground = "#221e1a"
+
+red = "#9b382c"
+yellow = "#6e550c"
+orange = "#904423"
+green = "#506028"
+cyan = "#296260"
+blue = "#3b5c88"
+magenta = "#7a4884"
+brown = "#6b4426"
+
+bright_red = "#993d35"
+bright_yellow = "#6d5814"
+bright_green = "#4e602c"
+bright_cyan = "#2c615d"
+bright_blue = "#3c5c80"
+bright_magenta = "#754982"
